@@ -87,13 +87,6 @@
             "roleIds": [6]
         }
     ],
-    "permissions":[
-        {
-            "id":1,
-            "name": "create.role",
-            "description": "test"
-        }
-    ],
     "posts":[
         {
             "id":1,
@@ -116,20 +109,6 @@
             "relatePosts":["fuck","you"],
             "publishedAt":"18-02-2020 21:05",
             "content":"ssss"
-        }
-    ],
-    "roles":[
-        {
-            "id":1,
-            "name": "ADMIN",
-            "description": "test "
-        }
-    ],
-    "ststes":[
-        {
-            "id":1,
-            "name": "name",
-	        "description": "test descriptipn"
         }
     ],
     "comments":[
