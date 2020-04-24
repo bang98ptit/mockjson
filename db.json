@@ -1,0 +1,44 @@
+{
+  "categories":[
+    {
+      "parentId": 1,
+      "allowDisplay": 1,
+      "allowDisplayPriority": 1,
+      "allowDisplayHomeBox": 1,
+      "allowDisplayHomeBoxPriority": 1,
+      "isActive": 1,
+      "translations": [
+          {
+              "name": "Sport",
+              "description": "This is description",
+              "locale": "en_EN"
+          },
+          {
+              "name": "Thể Thao",
+              "description": "Miêu tả",
+              "locale": "vi_VN"
+          }
+      ]
+    },
+    {
+      "parentId": 2,
+      "allowDisplay": 0,
+      "allowDisplayPriority": 1,
+      "allowDisplayHomeBox": 0,
+      "allowDisplayHomeBoxPriority": 1,
+      "isActive": 0,
+      "translations": [
+          {
+              "name": "Sport",
+              "description": "This is description",
+              "locale": "en_EN"
+          },
+          {
+              "name": "Thể Thao",
+              "description": "Miêu tả",
+              "locale": "vi_VN"
+          }
+      ]
+    }
+  ]
+}
