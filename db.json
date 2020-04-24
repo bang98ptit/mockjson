@@ -10,11 +10,6 @@
       "isActive": 1,
       "translations": [
           {
-              "name": "Sport",
-              "description": "This is description",
-              "locale": "en_EN"
-          },
-          {
               "name": "Thể Thao",
               "description": "Miêu tả",
               "locale": "vi_VN"
@@ -30,11 +25,6 @@
       "allowDisplayHomeBoxPriority": 1,
       "isActive": 0,
       "translations": [
-          {
-              "name": "Sport",
-              "description": "This is description",
-              "locale": "en_EN"
-          },
           {
               "name": "Thể Thao",
               "description": "Miêu tả",
