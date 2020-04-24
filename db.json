@@ -15,22 +15,6 @@
               "locale": "vi_VN"
           }
       ]
-    },
-    {
-      "id": 2,
-      "parentId": 2,
-      "allowDisplay": 0,
-      "allowDisplayPriority": 1,
-      "allowDisplayHomeBox": 0,
-      "allowDisplayHomeBoxPriority": 1,
-      "isActive": 0,
-      "translations": [
-          {
-              "name": "Thể Thao",
-              "description": "Miêu tả",
-              "locale": "vi_VN"
-          }
-      ]
     }
   ],
     "images":[
@@ -75,17 +59,12 @@
             "id":1,
             "name": "test",
             "categoryId": "1"
-        },
-{
-            "id":2,
-            "name": "test2",
-            "categoryId": "2"
         }
     ],
     "banners":[
         {
             "id":1,
-            "categoryId": 2,
+            "categoryId": 1,
             "name": "Banner",
             "description": "description",
             "imageBanner": "url.com1",
@@ -94,18 +73,6 @@
             "priority": 1,
             "bannerStyle": "CENTER",
             "link": "url.com.vn"
-        },
-        {
-            "id":2,
-            "categoryId": 1,
-            "name": "Banner2",
-            "description": "description2",
-            "imageBanner": "url.com12",
-            "bannerType": "PHOTO2",
-            "display": 1,
-            "priority": 1,
-            "bannerStyle": "CENTER2",
-            "link": "url.com.vn2"
         }
     ],
     "users":[
@@ -118,17 +85,6 @@
               "phoneNumber": "0982547168"
                 },
             "roleIds": [6]
-        },
-        {
-            "id":2,
-            "user": {
-              "email": "trabf@gmail.com.vn",
-              "username": "admin",
-              "password": "123456",
-              "phoneNumber": "0982547168"
-                },
-            "roleIds": [6]
-
         }
     ],
     "permissions":[
@@ -136,39 +92,12 @@
             "id":1,
             "name": "create.role",
             "description": "test"
-        },
-        {
-            "id":2,
-            "name": "create.role2",
-            "description": "test2"
         }
     ],
     "posts":[
         {
             "id":1,
             "mainCategoryId":1,
-            "subCategoryId":[1,2,3],
-            "userId":1,
-            "title":"hello",
-            "subTitle":"hihi",
-            "description":"haha",
-            "postTypeId":1,
-            "hotNews":1,
-            "viewsNews":1,
-            "highlightNews":0,
-            "focusNews":0,
-            "imageDescription":
-            "ngungu",
-            "postSource":"source",
-            "author":"author",
-            "note":"hehe",
-            "relatePosts":["fuck","you"],
-            "publishedAt":"18-02-2020 21:05",
-            "content":"ssss"
-        },
-        {
-            "id":2,
-            "mainCategoryId":2,
             "subCategoryId":[1,2,3],
             "userId":1,
             "title":"hello",
@@ -194,11 +123,6 @@
             "id":1,
             "name": "ADMIN",
             "description": "test "
-        },
-        {
-            "id":2,
-            "name": "ADMIN2",
-            "description": "test2 "
         }
     ],
     "ststes":[
@@ -206,23 +130,9 @@
             "id":1,
             "name": "name",
 	        "description": "test descriptipn"
-        },
-        {
-            "id":2,
-            "name": "name2",
-	        "description": "test descriptipn2"
         }
     ],
     "comments":[
-        {
-            "id":1,
-            "name": "hung1",
-            "content": "hung test1",
-            "postId": 1,
-            "parentId": 5,
-            "email": "cdmn1993@gmail.com1",
-            "g-recaptcha-response": "03AHaCkAb-W5B1naRFLZTMonPYp2XQgWw2HhkISrWT-WWSkH4WDV5UX7aJ7-0e-o6P1nmbGdDqKBGEhw_TCWa4awtGmcXUWMKrzP7vdwzYENkafPswMPsWnQmqwGe7djExwWY10UfYmFo24vgdYD-EL1Mg35SXue0c_zFGC64FdasWcW4mtbyXaDuXS2FSbwHtiKe10qISupI0ba4Iox4-7y0bsPRZKKMLy-XOifa_0NlGcfaAkwww_R4Je_vTJBbRM-Toman81dxRfCYmoPcpEUyiXzCN2JZ2efPRkNoyMzQlvtroL-iIGDPFFhWqVVF0EvWzyTnjptAWWrnCgnob6pZuUPOQ8bkDQtifQMzWnDcApGca2LndTELnIun5o8hwvQc-o6rfcQhP"
-         },
         {
             "id":2,
             "name": "hung2",
