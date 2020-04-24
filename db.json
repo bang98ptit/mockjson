@@ -16,6 +16,22 @@
               "locale": "vi_VN"
           }
       ]
+    },
+      {
+      "id":2,
+      "parentId": 1,
+      "allowDisplay": 0,
+      "allowDisplayPriority": 1,
+      "allowDisplayHomeBox": 0,
+      "allowDisplayHomeBoxPriority": 1,
+      "isActive": 1,
+      "translations": [
+          {
+              "name": "Thể Thao",
+              "description": "Miêu tả",
+              "locale": "vi_VN"
+          }
+      ]
     }
   ],
    "albums":[
