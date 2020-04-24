@@ -39,6 +39,11 @@
             "id":1,
             "name": "test",
             "categoryId": "1"
+        },
+        {
+            "id":2,
+            "name": "test1",
+            "categoryId": "1"
         }
     ],
     "banners":[
@@ -53,6 +58,18 @@
             "priority": 1,
             "bannerStyle": "CENTER",
             "link": "url.com.vn"
+        },
+       {
+            "id":2,
+            "categoryId": 1,
+            "name": "Banner1",
+            "description": "description1",
+            "imageBanner": "url.com11",
+            "bannerType": "PHOTO1",
+            "display": 1,
+            "priority": 1,
+            "bannerStyle": "CENTER1",
+            "link": "url.com.vn1"
         }
     ],
     "posts":[
@@ -76,6 +93,28 @@
             "note":"hehe",
             "relatePosts":["fuck","you"],
             "publishedAt":"18-02-2020 21:05",
+            "content":"ssss"
+        },
+       {
+            "id":2,
+            "mainCategoryId":1,
+            "subCategoryId":[1,2,3],
+            "userId":1,
+            "title":"helloo",
+            "subTitle":"hihii",
+            "description":"hahaa",
+            "postTypeId":1,
+            "hotNews":1,
+            "viewsNews":1,
+            "highlightNews":0,
+            "focusNews":0,
+            "imageDescription":
+            "ngunguuuu",
+            "postSource":"sources",
+            "author":"authors",
+            "note":"hehes",
+            "relatePosts":["fuck","you"],
+            "publishedAt":"19-02-2020 21:05",
             "content":"ssss"
         }
     ],
