@@ -17,44 +17,7 @@
       ]
     }
   ],
-    "images":[
-        {
-            "id":1,
-            "images" : [
-                    {
-                    "url": "asdawqe",
-                    "translations": [
-                        {
-                            "title": "sdwdasd",
-                            "description": "This is description",
-                            "locale": "en_EN"
-                        },
-                        {
-                            "title": "asdasdads",
-                            "description": "asdasdas",
-                            "locale": "vi_VN"
-                        }
-                    ]
-                },
-                    {
-                    "url": "hung",
-                    "translations": [
-                        {
-                            "title": "sdwdasd",
-                            "description": "This is description",
-                            "locale": "en_EN"
-                        },
-                        {
-                            "title": "asdasdads",
-                            "description": "asdasdas",
-                            "locale": "vi_VN"
-                        }
-                    ]
-                }
-                ]
-        }
-    ],
-    "albums":[
+   "albums":[
         {
             "id":1,
             "name": "test",
@@ -73,18 +36,6 @@
             "priority": 1,
             "bannerStyle": "CENTER",
             "link": "url.com.vn"
-        }
-    ],
-    "users":[
-        {
-            "id":1,
-            "user": {
-              "email": "trabf@gmail.com",
-              "username": "admin",
-              "password": "123456",
-              "phoneNumber": "0982547168"
-                },
-            "roleIds": [6]
         }
     ],
     "posts":[
