@@ -1,6 +1,7 @@
 {
   "categories":[
     {
+      "id":1,
       "parentId": 1,
       "allowDisplay": 1,
       "allowDisplayPriority": 1,
@@ -20,7 +21,8 @@
           }
       ]
     },
-    {
+    { 
+      "id": 2,
       "parentId": 2,
       "allowDisplay": 0,
       "allowDisplayPriority": 1,
