@@ -81,6 +81,18 @@
             "email": "cdmn1993@gmail.com3",
             "g-recaptcha-response": "03AHaCkAb-W5B1naRFLZTMonPYp2XQgWw2HhkISrWT-WWSkH4WDV5UX7aJ7-0e-o6P1nmbGdDqKBGEhw_TCWa4awtGmcXUWMKrzP7vdwzYENkafPswMPsWnQmqwGe7djExwWY10UfYmFo24vgdYD-EL1Mg35SXue0c_zFGC64FdasWcW4mtbyXaDuXS2FSbwHtiKe10qISupI0ba4Iox4-7y0bsPRZKKMLy-XOifa_0NlGcfaAkwww_R4Je_vTJBbRM-Toman81dxRfCYmoPcpEUyiXzCN2JZ2efPRkNoyMzQlvtroL-iIGDPFFhWqVVF0EvWzyTnjptAWWrnCgnob6pZuUPOQ8bkDQtifQMzWnDcApGca2LndTELnIun5o8hwvQc-o6rfcQhP"
                 }
+    ],
+    "users":[
+        {
+            "id":1,
+            "user": {
+              "email": "trabf@gmail.com",
+              "username": "admin",
+              "password": "123456",
+              "phoneNumber": "0982547168"
+                },
+            "roleIds": [6]
+        }
     ]
 
 }
